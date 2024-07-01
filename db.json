@@ -51,11 +51,11 @@
       "ma": "WM192038GD",
       "daBan": 12,
       "anh": [
-        "../../Resource/img/item1.jpg",
-        "../../Resource/img/dt1_1.jpg",
-        "../../Resource/img/dt1_2.jpg",
-        "../../Resource/img/dt1_3.jpg",
-        "../../Resource/img/dt1_4.jpg"
+        "Resource/img/item1.jpg",
+        "Resource/img/dt1_1.jpg",
+        "Resource/img/dt1_2.jpg",
+        "Resource/img/dt1_3.jpg",
+        "Resource/img/dt1_4.jpg"
       ],
       "soLuong": 525
     },
@@ -71,11 +71,11 @@
       "ma": "WM192038GD",
       "daBan": 14,
       "anh": [
-        "../../Resource/img/item2.jpg",
-        "../../Resource/img/dt2_1.webp",
-        "../../Resource/img/dt2_2.webp",
-        "../../Resource/img/dt2_3.webp",
-        "../../Resource/img/dt2_4.webp"
+        "Resource/img/item2.jpg",
+        "Resource/img/dt2_1.webp",
+        "Resource/img/dt2_2.webp",
+        "Resource/img/dt2_3.webp",
+        "Resource/img/dt2_4.webp"
       ],
       "soLuong": 104
     },
@@ -91,11 +91,11 @@
       "ma": "WM192038GD",
       "daBan": 34,
       "anh": [
-        "../../Resource/img/item3.jpg",
-        "../../Resource/img/dt3_1.jpg",
-        "../../Resource/img/dt3_2.jpg",
-        "../../Resource/img/dt3_3.jpg",
-        "../../Resource/img/dt3_4.jpg"
+        "Resource/img/item3.jpg",
+        "Resource/img/dt3_1.jpg",
+        "Resource/img/dt3_2.jpg",
+        "Resource/img/dt3_3.jpg",
+        "Resource/img/dt3_4.jpg"
       ],
       "soLuong": 88
     },
@@ -111,11 +111,11 @@
       "ma": "WM192038GD",
       "daBan": 43,
       "anh": [
-        "../../Resource/img/item4.jpg",
-        "../../Resource/img/dt4_1.jpg",
-        "../../Resource/img/dt4_2.jpg",
-        "../../Resource/img/dt4_3.jpg",
-        "../../Resource/img/dt4_4.jpg"
+        "Resource/img/item4.jpg",
+        "Resource/img/dt4_1.jpg",
+        "Resource/img/dt4_2.jpg",
+        "Resource/img/dt4_3.jpg",
+        "Resource/img/dt4_4.jpg"
       ],
       "soLuong": 52
     },
@@ -131,11 +131,11 @@
       "ma": "WM192038GD",
       "daBan": 3,
       "anh": [
-        "../../Resource/img/item5.jpg",
-        "../../Resource/img/dt5_1.jpg",
-        "../../Resource/img/dt5_2.jpg",
-        "../../Resource/img/dt5_3.jpg",
-        "../../Resource/img/dt5_4.jpg"
+        "Resource/img/item5.jpg",
+        "Resource/img/dt5_1.jpg",
+        "Resource/img/dt5_2.jpg",
+        "Resource/img/dt5_3.jpg",
+        "Resource/img/dt5_4.jpg"
       ],
       "soLuong": 45
     },
@@ -151,11 +151,11 @@
       "ma": "WM192038GD",
       "daBan": 0,
       "anh": [
-        "../../Resource/img/item6.jpg",
-        "../../Resource/img/dt6_1.jpg",
-        "../../Resource/img/dt6_2.jpg",
-        "../../Resource/img/dt6_3.jpg",
-        "../../Resource/img/dt6_4.jpg"
+        "Resource/img/item6.jpg",
+        "Resource/img/dt6_1.jpg",
+        "Resource/img/dt6_2.jpg",
+        "Resource/img/dt6_3.jpg",
+        "Resource/img/dt6_4.jpg"
       ],
       "soLuong": 14
     },
@@ -171,11 +171,11 @@
       "ma": "WM192038GD",
       "daBan": 19,
       "anh": [
-        "../../Resource/img/item7.jpg",
-        "../../Resource/img/dt7_1.jpg",
-        "../../Resource/img/dt7_2.jpg",
-        "../../Resource/img/dt7_3.jpg",
-        "../../Resource/img/dt7_4.jpg"
+        "Resource/img/item7.jpg",
+        "Resource/img/dt7_1.jpg",
+        "Resource/img/dt7_2.jpg",
+        "Resource/img/dt7_3.jpg",
+        "Resource/img/dt7_4.jpg"
       ],
       "soLuong": 233
     },
@@ -190,11 +190,11 @@
       "ma": "G49H9HF8",
       "daBan": 0,
       "anh": [
-        "../../Resource/img/item8.jpg",
-        "../../Resource/img/dt8_1.jpg",
-        "../../Resource/img/dt8_2.jpg",
-        "../../Resource/img/dt8_3.jpg",
-        "../../Resource/img/dt8_4.jpg"
+        "Resource/img/item8.jpg",
+        "Resource/img/dt8_1.jpg",
+        "Resource/img/dt8_2.jpg",
+        "Resource/img/dt8_3.jpg",
+        "Resource/img/dt8_4.jpg"
       ],
       "soLuong": 33,
       "id": 8
